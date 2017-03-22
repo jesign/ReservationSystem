@@ -1,0 +1,37 @@
+.reserve-button{
+	right: 1px;
+	margin-left: 20px;
+}
+.reservation-background{
+	border: 2px solid;
+	border-color: #F5B067;
+	border-radius: 3px;
+	color: black;	
+
+	background-color: #FFCC95;
+	font-size: 20px;
+	padding: 10px 25px 10px;
+}
+p .specs{
+	text-indent: 50px;
+}
+div.row > div strong{
+	font-weight: bolder;
+
+}
+.detailbox{
+	background-color:#FFE3C4;
+	border-radius: 5px;
+	padding: 10px 25px 10px;
+}
+textarea.textarea{
+	padding: 0px 0px 0px;
+	font-size: 16px;
+}
+form.additem div>label{
+	font-size: 16px;
+}
+form div.productcode label{
+	font-size: 18px;
+	font-weight: bolder;
+}
